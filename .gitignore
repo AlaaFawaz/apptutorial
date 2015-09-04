@@ -13,3 +13,5 @@ target
 **rebel.xml
 
 src/main/java/META-INF
+
+**.DS_Store
