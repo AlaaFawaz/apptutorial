@@ -75,10 +75,11 @@ subApps:
     workbench:
       dropConstraintClass: info.magnolia.ui.workbench.tree.drop.AlwaysTrueDropConstraint
       editable: false
+
       contentViews:
         - name: tree
           class: info.magnolia.ui.workbench.tree.TreePresenterDefinition
-          columns:
+          columns: &myColumns
             - name: jcrName
               editable: true
               sortable: true
@@ -98,46 +99,13 @@ subApps:
               class: info.magnolia.ui.workbench.column.definition.MetaDataColumnDefinition
         - name: list
           class: info.magnolia.ui.workbench.list.ListPresenterDefinition
-          columns:
-            - name: jcrName
-              editable: true
-              propertyName: jcrName
-              sortable: true
-              class: info.magnolia.ui.workbench.column.definition.PropertyColumnDefinition
-            - name: status
-              displayInChooseDialog: false
-              formatterClass: info.magnolia.ui.workbench.column.StatusColumnFormatter
-              width: 45
-              class: info.magnolia.ui.workbench.column.definition.StatusColumnDefinition
-            - name: moddate
-              displayInChooseDialog: false
-              formatterClass: info.magnolia.ui.workbench.column.DateColumnFormatter
-              propertyName: mgnl:lastModified
-              sortable: true
-              width: 160
-              class: info.magnolia.ui.workbench.column.definition.MetaDataColumnDefinition
+          columns: *myColumns
         - name: thumbnail
           class: info.magnolia.ui.workbench.thumbnail.ThumbnailPresenterDefinition
         - name: search
           class: info.magnolia.ui.workbench.search.SearchPresenterDefinition
-          columns:
-            - name: jcrName
-              editable: true
-              propertyName: jcrName
-              sortable: true
-              class: info.magnolia.ui.workbench.column.definition.PropertyColumnDefinition
-            - name: status
-              displayInChooseDialog: false
-              formatterClass: info.magnolia.ui.workbench.column.StatusColumnFormatter
-              width: 45
-              class: info.magnolia.ui.workbench.column.definition.StatusColumnDefinition
-            - name: moddate
-              displayInChooseDialog: false
-              formatterClass: info.magnolia.ui.workbench.column.DateColumnFormatter
-              propertyName: mgnl:lastModified
-              sortable: true
-              width: 160
-              class: info.magnolia.ui.workbench.column.definition.MetaDataColumnDefinition
+          columns: *myColumns
+
     imageProvider:
        class: info.magnolia.dam.app.ui.imageprovider.DamLinkImageProviderDefinition
        damLinkPropertyName: image
