@@ -80,7 +80,7 @@ subApps:
         - name: tree
           class: info.magnolia.ui.workbench.tree.TreePresenterDefinition
           columns: &myColumns
-            - name: jcrName
+            - name: name
               editable: true
               sortable: true
               propertyName: jcrName
@@ -136,8 +136,9 @@ subApps:
         tabs:
           - name: product
             fields:
-              - name: name
-                name: jcrName
+              - name: jcrName
+                class: info.magnolia.ui.form.field.definition.TextFieldDefinition
+              - name: title
                 class: info.magnolia.ui.form.field.definition.TextFieldDefinition
               - name: image
                 class: info.magnolia.ui.form.field.definition.LinkFieldDefinition

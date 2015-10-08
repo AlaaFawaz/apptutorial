@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sv:node sv:name="classic-cars" xmlns:sv="http://www.jcp.org/jcr/sv/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <sv:property sv:name="jcr:primaryType" sv:type="Name">
+    <sv:value>mgnl:folder</sv:value>
+  </sv:property>
+  <sv:property sv:name="jcr:uuid" sv:type="String">
+    <sv:value>00b853c1-cd72-46ba-8fc1-6db08ee7e6d3</sv:value>
+  </sv:property>
+  <sv:property sv:name="jcr:createdBy" sv:type="String">
+    <sv:value>admin</sv:value>
+  </sv:property>
+  <sv:property sv:name="mgnl:created" sv:type="Date">
+    <sv:value>2015-10-08T18:17:07.659+02:00</sv:value>
+  </sv:property>
+  <sv:property sv:name="mgnl:createdBy" sv:type="String">
+    <sv:value>superuser</sv:value>
+  </sv:property>
+  <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+    <sv:value>2015-10-08T18:28:41.319+02:00</sv:value>
+  </sv:property>
+  <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+    <sv:value>superuser</sv:value>
+  </sv:property>
+  <sv:node sv:name="Fiat-Cinquecento">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:product</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>bd0fbbc0-3058-4f26-8aaa-2bf93752efd7</sv:value>
+    </sv:property>
+    <sv:property sv:name="description" sv:type="String">
+      <sv:value>&lt;p&gt;The Fiat 500 (Cinquecento) was a city car produced by the Italian manufacturer Fiat between 1957 and 1975.&lt;br /&gt;
+Launched as the Nuova (new) 500 in July 1957, it was a cheap and practical town car. Measuring only 2.97 metres (9 feet 9 inches) long, and originally powered by an appropriately sized 479 cc two-cylinder, air-cooled engine, the 500 redefined the term &amp;quot;small car&amp;quot; and is considered one of the first city cars.&lt;/p&gt;
+
+&lt;p&gt;Sports models were famously produced by Abarth, as well as by Giannini. An Austrian variant, produced by Steyr-Daimler-Puch, the 1957&amp;ndash;1973 Steyr-Puch 500, had a motorcycle-derived Puch boxer twin motor, a sports model of which was the 1965&amp;ndash;1969 Steyr-Puch 650 TR2.&lt;/p&gt;
+
+&lt;p&gt;Production of the 500 ended in 1975, although its replacement, the Fiat 126, was launched two years earlier.&lt;/p&gt;
+</sv:value>
+    </sv:property>
+    <sv:property sv:name="image" sv:type="String">
+      <sv:value>jcr:1bbae8c4-26e3-4e2e-83b1-7658565e6e09</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-10-08T18:17:44.166+02:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-10-08T18:24:05.473+02:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="name" sv:type="String">
+      <sv:value>Fiat Cinquecento</sv:value>
+    </sv:property>
+    <sv:property sv:name="title" sv:type="String">
+      <sv:value>Fiat Cinquecento</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Riley-Brooklands-1930">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:product</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>0e96c956-3675-4173-85f5-d6bc1eec04f9</sv:value>
+    </sv:property>
+    <sv:property sv:name="description" sv:type="String">
+      <sv:value>&lt;p&gt;Riley was a British motorcar and bicycle manufacturer from 1890. Later it was merged into British Leyland.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Th 1930 Riley Brooklands has won Tourist Trophy in 1932 and participated on Le Mans race 1933.&lt;br /&gt;
+Its 1087 cc, twin cam, inline-4 engine was tuned with a high performance water pump, high compression pistons, a racing camshaft, balanced exhaust manifold and uprated, twin carburettors. This pushed the engine to produce what was then an astounding 50 bhp.&lt;/p&gt;
+</sv:value>
+    </sv:property>
+    <sv:property sv:name="image" sv:type="String">
+      <sv:value>jcr:57cc5aa2-4d72-4b05-be2a-b02856e9f91c</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-10-08T18:27:25.838+02:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-10-08T18:27:25.838+02:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="title" sv:type="String">
+      <sv:value>Riley Brooklands 1930</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Pontiac-Chieftain-1952">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:product</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>c5b8bc8f-a4ec-44af-b00b-b66b93a27d10</sv:value>
+    </sv:property>
+    <sv:property sv:name="description" sv:type="String">
+      <sv:value>&lt;p&gt;The Pontiac Chieftain is an automobile that was produced by the Pontiac from 1949 to 1958.&amp;nbsp;&lt;br /&gt;
+The Chieftain was initially introduced with four models: Sedan, Sedan Coupe, Business Coupe and Deluxe Convertible Coupe. In 1950, a Catalina Coupe was added to the range while a station wagon was added in 1952, with the demise of the top of the line Streamliner wagon.&lt;/p&gt;
+
+&lt;p&gt;Some of the more interesting optional items available for the first generation Chieftain included a radio with seven vacuum tubes, tissue dispenser, under seat heaters, and a Remington Auto-Home shaver.&amp;nbsp;&lt;br /&gt;
+In the May of 1952 issue of Popular Mechanics, the Chieftain was rated 14.9 seconds for a 0-60 mph time.&amp;nbsp;&lt;/p&gt;
+</sv:value>
+    </sv:property>
+    <sv:property sv:name="image" sv:type="String">
+      <sv:value>jcr:6df7ee03-5b11-46d4-a15f-579bcffb50b9</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-10-08T18:28:04.335+02:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-10-08T18:28:04.335+02:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="title" sv:type="String">
+      <sv:value>Pontiac Chieftain 1952</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="Continental-Mark-II">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:product</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>688a8540-e448-4fe5-87d0-cf5e4bd6817c</sv:value>
+    </sv:property>
+    <sv:property sv:name="description" sv:type="String">
+      <sv:value>&lt;p&gt;Continental was a brand from Ford - they wanted a superior and standalone up-market brand &amp;ndash; aside from Lincoln &amp;ndash; to compete with General Motors&amp;#39; Cadillac, Packard, and Chrysler.&lt;/p&gt;
+
+&lt;p&gt;The Mark II was not intended to be the largest or most powerful automobile; rather, the most luxurious and elegant American car available, designed to recapture the spirit of the great classics of the prewar period&amp;mdash;with prices to match. The Mark II&amp;#39;s inspiration was the celebrated V12-powered Lincoln Continental of the 1940s, among the most notable cars of that War-interrupted decade.&lt;/p&gt;
+</sv:value>
+    </sv:property>
+    <sv:property sv:name="image" sv:type="String">
+      <sv:value>jcr:5f29b11a-1c37-4f3e-a0e1-ef033b84998c</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-10-08T18:28:41.320+02:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-10-08T18:28:41.320+02:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="title" sv:type="String">
+      <sv:value>Continental Mark II</sv:value>
+    </sv:property>
+  </sv:node>
+</sv:node>
