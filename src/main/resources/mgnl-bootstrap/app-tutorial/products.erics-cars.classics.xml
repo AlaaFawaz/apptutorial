@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sv:node sv:name="classic-cars" xmlns:sv="http://www.jcp.org/jcr/sv/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<sv:node sv:name="classics" xmlns:sv="http://www.jcp.org/jcr/sv/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <sv:property sv:name="jcr:primaryType" sv:type="Name">
     <sv:value>mgnl:folder</sv:value>
   </sv:property>
   <sv:property sv:name="jcr:uuid" sv:type="String">
-    <sv:value>00b853c1-cd72-46ba-8fc1-6db08ee7e6d3</sv:value>
+    <sv:value>473cdb9e-72ef-4991-b03a-0dff29d2cae4</sv:value>
   </sv:property>
   <sv:property sv:name="jcr:createdBy" sv:type="String">
     <sv:value>admin</sv:value>
   </sv:property>
   <sv:property sv:name="mgnl:created" sv:type="Date">
-    <sv:value>2015-10-08T18:17:07.659+02:00</sv:value>
+    <sv:value>2015-09-25T00:54:38.571+02:00</sv:value>
   </sv:property>
   <sv:property sv:name="mgnl:createdBy" sv:type="String">
     <sv:value>superuser</sv:value>
   </sv:property>
   <sv:property sv:name="mgnl:lastModified" sv:type="Date">
-    <sv:value>2015-10-08T18:28:41.319+02:00</sv:value>
+    <sv:value>2015-09-25T00:56:39.857+02:00</sv:value>
   </sv:property>
   <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
     <sv:value>superuser</sv:value>
@@ -26,7 +26,7 @@
       <sv:value>mgnl:product</sv:value>
     </sv:property>
     <sv:property sv:name="jcr:uuid" sv:type="String">
-      <sv:value>bd0fbbc0-3058-4f26-8aaa-2bf93752efd7</sv:value>
+      <sv:value>4e2b50e5-cab6-4b5f-a2bf-db2108f1d0fb</sv:value>
     </sv:property>
     <sv:property sv:name="description" sv:type="String">
       <sv:value>&lt;p&gt;The Fiat 500 (Cinquecento) was a city car produced by the Italian manufacturer Fiat between 1957 and 1975.&lt;br /&gt;
@@ -44,19 +44,19 @@ Launched as the Nuova (new) 500 in July 1957, it was a cheap and practical town 
       <sv:value>admin</sv:value>
     </sv:property>
     <sv:property sv:name="mgnl:created" sv:type="Date">
-      <sv:value>2015-10-08T18:17:44.166+02:00</sv:value>
+      <sv:value>2015-09-07T15:58:00.186+02:00</sv:value>
     </sv:property>
     <sv:property sv:name="mgnl:createdBy" sv:type="String">
       <sv:value>superuser</sv:value>
     </sv:property>
     <sv:property sv:name="mgnl:lastModified" sv:type="Date">
-      <sv:value>2015-10-08T18:24:05.473+02:00</sv:value>
+      <sv:value>2015-10-08T19:06:24.254+02:00</sv:value>
     </sv:property>
     <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
       <sv:value>superuser</sv:value>
     </sv:property>
-    <sv:property sv:name="name" sv:type="String">
-      <sv:value>Fiat Cinquecento</sv:value>
+    <sv:property sv:name="photoCredit" sv:type="String">
+      <sv:value>werwer</sv:value>
     </sv:property>
     <sv:property sv:name="title" sv:type="String">
       <sv:value>Fiat Cinquecento</sv:value>
@@ -67,12 +67,13 @@ Launched as the Nuova (new) 500 in July 1957, it was a cheap and practical town 
       <sv:value>mgnl:product</sv:value>
     </sv:property>
     <sv:property sv:name="jcr:uuid" sv:type="String">
-      <sv:value>0e96c956-3675-4173-85f5-d6bc1eec04f9</sv:value>
+      <sv:value>ecc731a2-2583-4d2d-b382-7329b44fb557</sv:value>
     </sv:property>
     <sv:property sv:name="description" sv:type="String">
       <sv:value>&lt;p&gt;Riley was a British motorcar and bicycle manufacturer from 1890. Later it was merged into British Leyland.&amp;nbsp;&lt;/p&gt;
 
-&lt;p&gt;Th 1930 Riley Brooklands has won Tourist Trophy in 1932 and participated on Le Mans race 1933.&lt;br /&gt;
+&lt;p&gt;&lt;br /&gt;
+Th 1930 Riley Brooklands has won Tourist Trophy in 1932 and participated on Le Mans race 1933.&lt;br /&gt;
 Its 1087 cc, twin cam, inline-4 engine was tuned with a high performance water pump, high compression pistons, a racing camshaft, balanced exhaust manifold and uprated, twin carburettors. This pushed the engine to produce what was then an astounding 50 bhp.&lt;/p&gt;
 </sv:value>
     </sv:property>
@@ -83,13 +84,13 @@ Its 1087 cc, twin cam, inline-4 engine was tuned with a high performance water p
       <sv:value>admin</sv:value>
     </sv:property>
     <sv:property sv:name="mgnl:created" sv:type="Date">
-      <sv:value>2015-10-08T18:27:25.838+02:00</sv:value>
+      <sv:value>2015-09-07T16:13:24.272+02:00</sv:value>
     </sv:property>
     <sv:property sv:name="mgnl:createdBy" sv:type="String">
       <sv:value>superuser</sv:value>
     </sv:property>
     <sv:property sv:name="mgnl:lastModified" sv:type="Date">
-      <sv:value>2015-10-08T18:27:25.838+02:00</sv:value>
+      <sv:value>2015-10-08T19:06:40.504+02:00</sv:value>
     </sv:property>
     <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
       <sv:value>superuser</sv:value>
@@ -103,7 +104,7 @@ Its 1087 cc, twin cam, inline-4 engine was tuned with a high performance water p
       <sv:value>mgnl:product</sv:value>
     </sv:property>
     <sv:property sv:name="jcr:uuid" sv:type="String">
-      <sv:value>c5b8bc8f-a4ec-44af-b00b-b66b93a27d10</sv:value>
+      <sv:value>f30b9cea-b35d-476c-81f1-bb6439b55df6</sv:value>
     </sv:property>
     <sv:property sv:name="description" sv:type="String">
       <sv:value>&lt;p&gt;The Pontiac Chieftain is an automobile that was produced by the Pontiac from 1949 to 1958.&amp;nbsp;&lt;br /&gt;
@@ -120,13 +121,13 @@ In the May of 1952 issue of Popular Mechanics, the Chieftain was rated 14.9 seco
       <sv:value>admin</sv:value>
     </sv:property>
     <sv:property sv:name="mgnl:created" sv:type="Date">
-      <sv:value>2015-10-08T18:28:04.335+02:00</sv:value>
+      <sv:value>2015-09-07T16:21:03.183+02:00</sv:value>
     </sv:property>
     <sv:property sv:name="mgnl:createdBy" sv:type="String">
       <sv:value>superuser</sv:value>
     </sv:property>
     <sv:property sv:name="mgnl:lastModified" sv:type="Date">
-      <sv:value>2015-10-08T18:28:04.335+02:00</sv:value>
+      <sv:value>2015-10-08T19:06:49.268+02:00</sv:value>
     </sv:property>
     <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
       <sv:value>superuser</sv:value>
@@ -140,7 +141,7 @@ In the May of 1952 issue of Popular Mechanics, the Chieftain was rated 14.9 seco
       <sv:value>mgnl:product</sv:value>
     </sv:property>
     <sv:property sv:name="jcr:uuid" sv:type="String">
-      <sv:value>688a8540-e448-4fe5-87d0-cf5e4bd6817c</sv:value>
+      <sv:value>73481a3e-312a-4f97-9dd0-f16016664650</sv:value>
     </sv:property>
     <sv:property sv:name="description" sv:type="String">
       <sv:value>&lt;p&gt;Continental was a brand from Ford - they wanted a superior and standalone up-market brand &amp;ndash; aside from Lincoln &amp;ndash; to compete with General Motors&amp;#39; Cadillac, Packard, and Chrysler.&lt;/p&gt;
@@ -155,19 +156,53 @@ In the May of 1952 issue of Popular Mechanics, the Chieftain was rated 14.9 seco
       <sv:value>admin</sv:value>
     </sv:property>
     <sv:property sv:name="mgnl:created" sv:type="Date">
-      <sv:value>2015-10-08T18:28:41.320+02:00</sv:value>
+      <sv:value>2015-09-07T16:57:28.077+02:00</sv:value>
     </sv:property>
     <sv:property sv:name="mgnl:createdBy" sv:type="String">
       <sv:value>superuser</sv:value>
     </sv:property>
     <sv:property sv:name="mgnl:lastModified" sv:type="Date">
-      <sv:value>2015-10-08T18:28:41.320+02:00</sv:value>
+      <sv:value>2015-10-08T19:07:03.467+02:00</sv:value>
     </sv:property>
     <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
       <sv:value>superuser</sv:value>
     </sv:property>
     <sv:property sv:name="title" sv:type="String">
       <sv:value>Continental Mark II</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="1927-Hudson">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:product</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>f98f7c78-dfea-4176-bf6f-a16961554292</sv:value>
+    </sv:property>
+    <sv:property sv:name="description" sv:type="String">
+      <sv:value>&lt;p&gt;The Hudson Motor Car Company made Hudson and other brand automobiles in Detroit, Michigan, from 1909 to 1954. In 1929, it was the third largest auto manufacturer, trailing only Ford and Chevrolet.&lt;br /&gt;
+The secret of the Hudson&amp;#39;s success was its advanced, four-bearing, 4.7-litre engine, which featured eight counterweights, large valves, a relatively high compression ratio and efficient porting. With 76bhp on tap, the Super Six possessed a performance demonstrably superior to that of many six-cylinder rivals costing far more.&amp;nbsp;&lt;/p&gt;
+</sv:value>
+    </sv:property>
+    <sv:property sv:name="image" sv:type="String">
+      <sv:value>jcr:8290ac0e-d9ab-4349-8ff9-100dc5d73eb8</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:createdBy" sv:type="String">
+      <sv:value>admin</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2015-09-07T16:52:03.560+02:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2015-10-08T19:07:10.670+02:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="title" sv:type="String">
+      <sv:value>1927 Hudson</sv:value>
     </sv:property>
   </sv:node>
 </sv:node>

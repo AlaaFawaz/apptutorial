@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sv:node sv:name="007-cars" xmlns:sv="http://www.jcp.org/jcr/sv/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<sv:node sv:name="007" xmlns:sv="http://www.jcp.org/jcr/sv/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <sv:property sv:name="jcr:primaryType" sv:type="Name">
     <sv:value>mgnl:folder</sv:value>
   </sv:property>
   <sv:property sv:name="jcr:uuid" sv:type="String">
-    <sv:value>e7136236-8edf-451a-be99-34ac1413bdcb</sv:value>
+    <sv:value>4d863c33-3948-44c3-8d9b-ca29436538d0</sv:value>
   </sv:property>
   <sv:property sv:name="jcr:createdBy" sv:type="String">
     <sv:value>admin</sv:value>
   </sv:property>
   <sv:property sv:name="mgnl:created" sv:type="Date">
-    <sv:value>2015-10-08T18:28:54.683+02:00</sv:value>
+    <sv:value>2015-09-25T00:57:12.674+02:00</sv:value>
   </sv:property>
   <sv:property sv:name="mgnl:createdBy" sv:type="String">
     <sv:value>superuser</sv:value>
   </sv:property>
   <sv:property sv:name="mgnl:lastModified" sv:type="Date">
-    <sv:value>2015-10-08T18:31:11.666+02:00</sv:value>
+    <sv:value>2015-09-25T01:11:34.637+02:00</sv:value>
   </sv:property>
   <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
     <sv:value>superuser</sv:value>
@@ -26,11 +26,11 @@
       <sv:value>mgnl:product</sv:value>
     </sv:property>
     <sv:property sv:name="jcr:uuid" sv:type="String">
-      <sv:value>d6bfeef7-7566-4a01-81d3-6412ecaa55f8</sv:value>
+      <sv:value>e2e9d1e6-a5a5-4fa4-b805-47e4126ea2b1</sv:value>
     </sv:property>
     <sv:property sv:name="description" sv:type="String">
-      <sv:value>&lt;p&gt;&lt;strong&gt;Movie:&lt;/strong&gt; Goldfinger, GoldenEye, Casino Royale and Skyfall&lt;br /&gt;
-&lt;strong&gt;Year:&lt;/strong&gt; 1964, 1995, 2006 and 2012&lt;/p&gt;
+      <sv:value>&lt;p&gt;&lt;strong&gt;Movie:&lt;/strong&gt;&amp;nbsp;Goldfinger, GoldenEye, Casino Royale and Skyfall&lt;br /&gt;
+&lt;strong&gt;Year:&lt;/strong&gt;&amp;nbsp;1964, 1995, 2006 and 2012&lt;/p&gt;
 
 &lt;p&gt;A rolling work of art, the silver DB5 is synonymous with Bond, and has been a featured player in four of the series&amp;rsquo; films (although we all know it&amp;rsquo;s really Connery&amp;rsquo;s). It was the first car that was recognized as being made specifically for Bond by Q.&lt;/p&gt;
 
@@ -44,13 +44,13 @@
       <sv:value>admin</sv:value>
     </sv:property>
     <sv:property sv:name="mgnl:created" sv:type="Date">
-      <sv:value>2015-10-08T18:29:35.834+02:00</sv:value>
+      <sv:value>2015-09-25T01:10:04.808+02:00</sv:value>
     </sv:property>
     <sv:property sv:name="mgnl:createdBy" sv:type="String">
       <sv:value>superuser</sv:value>
     </sv:property>
     <sv:property sv:name="mgnl:lastModified" sv:type="Date">
-      <sv:value>2015-10-08T18:29:35.834+02:00</sv:value>
+      <sv:value>2015-10-08T19:07:21.095+02:00</sv:value>
     </sv:property>
     <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
       <sv:value>superuser</sv:value>
@@ -64,11 +64,11 @@
       <sv:value>mgnl:product</sv:value>
     </sv:property>
     <sv:property sv:name="jcr:uuid" sv:type="String">
-      <sv:value>22306d49-d9cb-43d3-9f66-d57578d5a128</sv:value>
+      <sv:value>ffd55713-8597-4da5-a6f2-ada453d83fd8</sv:value>
     </sv:property>
     <sv:property sv:name="description" sv:type="String">
-      <sv:value>&lt;p&gt;&lt;strong&gt;Movie:&lt;/strong&gt; Dr. No&lt;br /&gt;
-&lt;strong&gt;Year:&lt;/strong&gt; 1962&lt;/p&gt;
+      <sv:value>&lt;p&gt;&lt;strong&gt;Movie:&lt;/strong&gt;&amp;nbsp;Dr. No&lt;br /&gt;
+&lt;strong&gt;Year:&amp;nbsp;&lt;/strong&gt;1962&lt;/p&gt;
 
 &lt;p&gt;It might surprise some that the James Bond film series did not start out big. In fact, for the first installation in the series &amp;mdash; Dr. No &amp;mdash; the producers could not find a single car company to provide them with a vehicle and instead had to borrow one from a local businessman in Jamaica, where the film was shot. Luckily, they got a good one.&lt;/p&gt;
 
@@ -82,13 +82,13 @@
       <sv:value>admin</sv:value>
     </sv:property>
     <sv:property sv:name="mgnl:created" sv:type="Date">
-      <sv:value>2015-10-08T18:30:24.594+02:00</sv:value>
+      <sv:value>2015-09-25T01:10:40.492+02:00</sv:value>
     </sv:property>
     <sv:property sv:name="mgnl:createdBy" sv:type="String">
       <sv:value>superuser</sv:value>
     </sv:property>
     <sv:property sv:name="mgnl:lastModified" sv:type="Date">
-      <sv:value>2015-10-08T18:30:24.594+02:00</sv:value>
+      <sv:value>2015-10-08T19:07:29.086+02:00</sv:value>
     </sv:property>
     <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
       <sv:value>superuser</sv:value>
@@ -102,15 +102,17 @@
       <sv:value>mgnl:product</sv:value>
     </sv:property>
     <sv:property sv:name="jcr:uuid" sv:type="String">
-      <sv:value>00153575-e6d4-4eae-8515-135eef672551</sv:value>
+      <sv:value>c420508b-7302-48bf-a157-294626511492</sv:value>
     </sv:property>
     <sv:property sv:name="description" sv:type="String">
-      <sv:value>&lt;p&gt;&lt;strong&gt;Movie:&lt;/strong&gt; The Living Daylights&lt;br /&gt;
-&lt;strong&gt;Year:&lt;/strong&gt; 1987&lt;/p&gt;
+      <sv:value>&lt;p&gt;&lt;strong&gt;Movie:&lt;/strong&gt;&amp;nbsp;The Living Daylights&lt;br /&gt;
+&lt;strong&gt;Year:&lt;/strong&gt;&amp;nbsp;1987&lt;/p&gt;
 
 &lt;p&gt;Of all of Bond&amp;rsquo;s cars, this is the one I&amp;rsquo;d like to take home. One of the last traditional Aston Martins before the wild Lagonda experiment and the Ford takeover, the thunderous DOHC V8 and gorgeous styling make the Vantage Volante very desirable in a refined way.&lt;/p&gt;
 
 &lt;p&gt;Still, the directors got a little silly with it. In a scene in which Bond (Timothy Dalton) is chased by police Ladas, he lasers one in half and cuts a hole in some ice to sink another, instead of just stepping on the accelerator and making them dots in the rearview mirror. Using headlight-mounted rockets to blow up the truck they used to block his way made sense, though.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 </sv:value>
     </sv:property>
     <sv:property sv:name="image" sv:type="String">
@@ -120,13 +122,13 @@
       <sv:value>admin</sv:value>
     </sv:property>
     <sv:property sv:name="mgnl:created" sv:type="Date">
-      <sv:value>2015-10-08T18:30:55.927+02:00</sv:value>
+      <sv:value>2015-09-25T01:11:08.631+02:00</sv:value>
     </sv:property>
     <sv:property sv:name="mgnl:createdBy" sv:type="String">
       <sv:value>superuser</sv:value>
     </sv:property>
     <sv:property sv:name="mgnl:lastModified" sv:type="Date">
-      <sv:value>2015-10-08T18:30:55.927+02:00</sv:value>
+      <sv:value>2015-10-08T19:07:36.958+02:00</sv:value>
     </sv:property>
     <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
       <sv:value>superuser</sv:value>
@@ -140,11 +142,11 @@
       <sv:value>mgnl:product</sv:value>
     </sv:property>
     <sv:property sv:name="jcr:uuid" sv:type="String">
-      <sv:value>b3909f30-6608-4f96-8e3a-b52f235dd28c</sv:value>
+      <sv:value>84923f2b-3d25-43f0-8b4d-75befcd3fd6c</sv:value>
     </sv:property>
     <sv:property sv:name="description" sv:type="String">
-      <sv:value>&lt;p&gt;&lt;strong&gt;Movie:&lt;/strong&gt; The Spy Who Loved Me&lt;br /&gt;
-&lt;strong&gt;Year:&lt;/strong&gt; 1977&lt;/p&gt;
+      <sv:value>&lt;p&gt;&lt;strong&gt;Movie:&lt;/strong&gt;&amp;nbsp;The Spy Who Loved Me&lt;br /&gt;
+&lt;strong&gt;Year:&lt;/strong&gt;&amp;nbsp;1977&lt;/p&gt;
 
 &lt;p&gt;One of the most popular Bond films, the star of The Spy Who Loved Me might not be Moore as Bond, but rather his car, a Lotus Esprit S1. The Giugiaro-designed mid-engine coupe was probably the best looking car of the entire squared-off pop-up lights era. And it was quick. But it proved to be a problem for the stunt drivers, who were used to driving muscle cars.&lt;/p&gt;
 
@@ -158,13 +160,13 @@
       <sv:value>admin</sv:value>
     </sv:property>
     <sv:property sv:name="mgnl:created" sv:type="Date">
-      <sv:value>2015-10-08T18:31:11.667+02:00</sv:value>
+      <sv:value>2015-09-25T01:11:34.637+02:00</sv:value>
     </sv:property>
     <sv:property sv:name="mgnl:createdBy" sv:type="String">
       <sv:value>superuser</sv:value>
     </sv:property>
     <sv:property sv:name="mgnl:lastModified" sv:type="Date">
-      <sv:value>2015-10-08T18:31:37.981+02:00</sv:value>
+      <sv:value>2015-10-08T19:07:45.509+02:00</sv:value>
     </sv:property>
     <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
       <sv:value>superuser</sv:value>
