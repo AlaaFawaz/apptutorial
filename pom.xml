@@ -17,7 +17,7 @@
     <magnoliaVersion>5.4</magnoliaVersion>
     <magnoliaUiVersion>5.4</magnoliaUiVersion>
     <damVersion>2.1</damVersion>
-    <javaVersion>1.7</javaVersion>
+    <javaVersion>1.8</javaVersion>
   </properties>
   <scm>
     <connection>scm:git:http://git.magnolia-cms.com/documentation/app-tutorial</connection>
